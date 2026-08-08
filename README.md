@@ -114,5 +114,5 @@ NPTEL — Cloud Computing · Python fundamentals · exploring OCI AI Foundations
 <img src="https://github-readme-stats.vercel.app/api?username=PrabhavathiU&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=6F4E37&icon_color=6F4E37&text_color=3C2A21" height="150">
 
 ---
-
+<br> <img src="footer_banner.svg" width="100%"> <div align="center"> [![Email](https://img.shields.io/badge/-Email%20me-6F4E37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhaudhaya897@gmail.com) [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-A47551?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhavathi-udhayakumar-b969752a4) </div>
 
