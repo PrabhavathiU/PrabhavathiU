@@ -1,0 +1,56 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="darkBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2C1810"/>
+      <stop offset="55%" stop-color="#3E2418"/>
+      <stop offset="100%" stop-color="#4A2F1F"/>
+    </linearGradient>
+    <clipPath id="revealClip">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width" values="0;620" dur="2.2s" begin="0.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#darkBg)"/>
+
+  <!-- subtle drifting particles -->
+  <circle cx="120" cy="40" r="2" fill="#C9A27E" opacity="0.5">
+    <animate attributeName="cx" values="120;900;120" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="170" r="1.6" fill="#E8D5C4" opacity="0.4">
+    <animate attributeName="cx" values="800;100;800" dur="22s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="30" r="1.4" fill="#A47551" opacity="0.5">
+    <animate attributeName="cy" values="30;190;30" dur="14s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- animated left accent bar -->
+  <rect x="60" y="55" width="4" height="0" fill="#C9A27E">
+    <animate attributeName="height" values="0;110" dur="1s" fill="freeze"/>
+  </rect>
+
+  <!-- name -->
+  <text x="90" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#F5EDE4" opacity="0">
+    Prabhavathi Udhayakumar
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+  </text>
+
+  <!-- single typewriter line, revealed via clip-path (no overlap risk) -->
+  <g clip-path="url(#revealClip)" transform="translate(90,125)">
+    <text x="0" y="15" font-family="Consolas, Menlo, monospace" font-size="20" fill="#C9A27E">
+      AI &amp; Data Science Student — building with ML &amp; NLP
+    </text>
+  </g>
+
+  <!-- blinking cursor, appears once typing finishes -->
+  <rect x="712" y="107" width="10" height="24" fill="#C9A27E" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.99;1;1;1;1" dur="2.8s" begin="0.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" dur="0.9s" begin="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- bottom hairline -->
+  <rect x="90" y="175" width="0" height="1.5" fill="#8B5E3C">
+    <animate attributeName="width" values="0;300" dur="1.2s" begin="0.4s" fill="freeze"/>
+  </rect>
+</svg>
