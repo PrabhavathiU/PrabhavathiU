@@ -14,7 +14,7 @@ I study Artificial Intelligence and Data Science at Sengunthar Engineering Colle
 <tr>
 <td width="50%" valign="top">
 
-**Fake News Detection**
+![Fake News Detection](https://img.shields.io/badge/Fake%20News%20Detection-6F4E37?style=for-the-badge)
 
 A classifier that decides whether a news article is fake or real. I ran it through six different algorithms before settling on what actually worked — not what looked good on paper.
 
@@ -25,7 +25,7 @@ A classifier that decides whether a news article is fake or real. I ran it throu
 </td>
 <td width="50%" valign="top">
 
-**AI Research Assistant — RAG**
+![AI Research Assistant](https://img.shields.io/badge/AI%20Research%20Assistant%20—%20RAG-6F4E37?style=for-the-badge)
 
 You give it a PDF. It gives you answers grounded in that PDF, not a hallucinated guess. My first real attempt at building something with generative AI instead of just using one.
 
@@ -38,7 +38,7 @@ You give it a PDF. It gives you answers grounded in that PDF, not a hallucinated
 <tr>
 <td width="50%" valign="top">
 
-**LIFE-OS**
+![LIFE-OS](https://img.shields.io/badge/LIFE--OS-6F4E37?style=for-the-badge)
 
 A dashboard I built for myself first — goals, schedule, notes, one screen. Mobile-first because I use it on my phone more than my laptop.
 
@@ -49,7 +49,7 @@ A dashboard I built for myself first — goals, schedule, notes, one screen. Mob
 </td>
 <td width="50%" valign="top">
 
-**Opporix**
+![Opporix](https://img.shields.io/badge/Opporix-6F4E37?style=for-the-badge)
 
 Government opportunities are scattered across a dozen sites that all look like they were built in 2009. This pulls them into one place.
 
@@ -62,18 +62,31 @@ Government opportunities are scattered across a dozen sites that all look like t
 <tr>
 <td width="50%" valign="top">
 
-**Colour-Based Object Tracking** & **Moving Object Detection**
+![Colour Object Tracking](https://img.shields.io/badge/Colour--Based%20Object%20Tracking-6F4E37?style=for-the-badge)
 
-Two computer vision projects, same rabbit hole. One tracks objects by colour, the other by motion. Both taught me more about OpenCV than any course did.
+Real-time object tracking via colour segmentation. Taught me more about OpenCV than any course did.
 
 `Python` `OpenCV`
 
-**→** `YOUR_REPO_URL_5` · `YOUR_REPO_URL_6`
+**→** `YOUR_REPO_URL_5`
 
 </td>
 <td width="50%" valign="top">
 
-**Text Summarization**
+![Moving Object Detection](https://img.shields.io/badge/Moving%20Object%20Detection-6F4E37?style=for-the-badge)
+
+Detects motion from video/image input. Same rabbit hole, different technique.
+
+`Python` `OpenCV`
+
+**→** `YOUR_REPO_URL_6`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+![Text Summarization](https://img.shields.io/badge/Text%20Summarization-A47551?style=for-the-badge)
 
 Because reading everything in full is overrated. Generates concise summaries from long-form text.
 
