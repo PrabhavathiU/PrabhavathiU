@@ -2,14 +2,6 @@
 
 <br>
 
-# Prabhavathi Udhayakumar
-
-*AI & Data Science student. I read code better than I read textbooks.*
-
-<br>
-
----
-
 ### 01 — About
 
 I study Artificial Intelligence and Data Science at Sengunthar Engineering College, Anna University, currently holding an 8.47 CGPA. Most of what I know, I learned by breaking something and rebuilding it — a classifier, a document assistant, a dashboard. I'm not done learning. I don't pretend to be.
@@ -18,32 +10,78 @@ I study Artificial Intelligence and Data Science at Sengunthar Engineering Colle
 
 ### 02 — Things I've built
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **Fake News Detection**
+
 A classifier that decides whether a news article is fake or real. I ran it through six different algorithms before settling on what actually worked — not what looked good on paper.
+
 `TF-IDF` `Logistic Regression` `SVM` `LSTM` `BERT`
-→ `YOUR_REPO_URL_1`
+
+**→** `YOUR_REPO_URL_1`
+
+</td>
+<td width="50%" valign="top">
 
 **AI Research Assistant — RAG**
+
 You give it a PDF. It gives you answers grounded in that PDF, not a hallucinated guess. My first real attempt at building something with generative AI instead of just using one.
+
 `LangChain` `ChromaDB` `Sentence Transformers` `Streamlit`
-→ `YOUR_REPO_URL_2`
+
+**→** `YOUR_REPO_URL_2`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **LIFE-OS**
+
 A dashboard I built for myself first — goals, schedule, notes, one screen. Mobile-first because I use it on my phone more than my laptop.
+
 `HTML5` `CSS3` `Flexbox` `Responsive design`
-→ `YOUR_REPO_URL_3`
+
+**→** `YOUR_REPO_URL_3`
+
+</td>
+<td width="50%" valign="top">
 
 **Opporix**
+
 Government opportunities are scattered across a dozen sites that all look like they were built in 2009. This pulls them into one place.
+
 `Web development` `UI`
-→ `YOUR_REPO_URL_4`
+
+**→** `YOUR_REPO_URL_4`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **Colour-Based Object Tracking** & **Moving Object Detection**
-Two computer vision projects, same rabbit hole. One tracks objects by colour, the other by motion. Both taught me more about OpenCV than any course did.
-`Python` `OpenCV`
-→ `YOUR_REPO_URL_5` · `YOUR_REPO_URL_6`
 
-*Also: a text summarization tool, because reading everything in full is overrated.*
+Two computer vision projects, same rabbit hole. One tracks objects by colour, the other by motion. Both taught me more about OpenCV than any course did.
+
+`Python` `OpenCV`
+
+**→** `YOUR_REPO_URL_5` · `YOUR_REPO_URL_6`
+
+</td>
+<td width="50%" valign="top">
+
+**Text Summarization**
+
+Because reading everything in full is overrated. Generates concise summaries from long-form text.
+
+`NLP`
+
+</td>
+</tr>
+</table>
 
 ---
 
