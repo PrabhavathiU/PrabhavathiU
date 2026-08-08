@@ -115,20 +115,4 @@ NPTEL — Cloud Computing · Python fundamentals · exploring OCI AI Foundations
 
 ---
 
-### 06 — Reach me
 
-[LinkedIn](https://www.linkedin.com/in/prabhavathi-udhayakumar-b969752a4) · [prabhaudhaya897@gmail.com](mailto:prabhaudhaya897@gmail.com)
-
-<br>
-
-<sub>Portfolio site — coming soon.</sub>
-<br>
-
-<img src="footer_banner.svg" width="100%">
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email%20me-6F4E37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhaudhaya897@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-A47551?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhavathi-udhayakumar-b969752a4)
-
-</div>
