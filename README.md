@@ -68,7 +68,7 @@ Real-time object tracking via colour segmentation. Taught me more about OpenCV t
 
 `Python` `OpenCV`
 
-**→** `YOUR_REPO_URL_5`
+**→** `**→** [View project on GitHub](https://github.com/PrabhavathiU/COLOUR-BASED-OBJ-TRACKING)`
 
 </td>
 <td width="50%" valign="top">
@@ -79,7 +79,7 @@ Detects motion from video/image input. Same rabbit hole, different technique.
 
 `Python` `OpenCV`
 
-**→** `YOUR_REPO_URL_6`
+`**→** [View project on GitHub](https://github.com/PrabhavathiU/moving-obj-detection)`
 
 </td>
 </tr>
@@ -90,7 +90,7 @@ Detects motion from video/image input. Same rabbit hole, different technique.
 
 Because reading everything in full is overrated. Generates concise summaries from long-form text.
 
-`NLP`
+`**→** [View project on GitHub](https://github.com/PrabhavathiU/textsummary03)`
 
 </td>
 </tr>
