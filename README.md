@@ -31,7 +31,7 @@ You give it a PDF. It gives you answers grounded in that PDF, not a hallucinated
 
 `LangChain` `ChromaDB` `Sentence Transformers` `Streamlit`
 
-**→** `**→** [View project on GitHub](https://github.com/PrabhavathiU/AI-RESEARCH-)`
+**→** https://github.com/PrabhavathiU/AI-RESEARCH-
 
 </td>
 </tr>
