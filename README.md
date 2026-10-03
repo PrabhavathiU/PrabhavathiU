@@ -90,7 +90,7 @@ Detects motion from video/image input. Same rabbit hole, different technique.
 
 Because reading everything in full is overrated. Generates concise summaries from long-form text.
 
-`**→** [View project on GitHub](https://github.com/PrabhavathiU/textsummary03)`
+`**→**https://github.com/PrabhavathiU/textsummary03`
 
 </td>
 </tr>
