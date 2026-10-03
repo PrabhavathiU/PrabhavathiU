@@ -44,7 +44,7 @@ A dashboard I built for myself first — goals, schedule, notes, one screen. Mob
 
 `HTML5` `CSS3` `Flexbox` `Responsive design`
 
-**→** `YOUR_REPO_URL_3`
+**→** https://github.com/PrabhavathiU/LIFE-OS
 
 </td>
 <td width="50%" valign="top">
